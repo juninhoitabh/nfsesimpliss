@@ -1,0 +1,11 @@
+{
+    "3136207": {
+        "municipio": "João Monlevade",
+        "uf": "MG",
+        "homologacao": "http:\/\/wshomologacao.simplissweb.com.br\/nfseservice.svc",
+        "producao": "http:\/\/wsjoaomonlevade.simplissweb.com.br\/nfseservice.svc",
+        "version": "1.00",
+        "msgns": "http:\/\/www.sistema.com.br\/Sistema.Ws.Nfse",
+        "soapns": "http:\/\/www.sistema.com.br\/Sistema.Ws.Nfse\/INfseService"
+    }
+}
